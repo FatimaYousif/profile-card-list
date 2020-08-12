@@ -3,7 +3,8 @@ const employees = [
     name: "Ben",
     title: "Software developer",
     institute: "Harvard University",
-    email: "",
+    email: "ben@gmail.com",
+    image: "./ben.jpg",
     socialMedia: [
       {
         dribble: {
